@@ -8,7 +8,7 @@ If you use this dataset, please cite our user manual:
 
 ```
 @techreport{usermanual_supoint_2024_v1,
-author = {Rabault, J. and Sætra, M.L. and Dobler, A. and Eastwood, S. and Hygen, H.O. and Berge, E},
+author = {Rabault, J. and Sætra, M.L. and Dobler, A. and Eastwood, S. and Hygen, H.O. and Berge, E.},
 year = {2024},
 month = {10},
 pages = {},
