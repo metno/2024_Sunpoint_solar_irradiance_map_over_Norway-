@@ -16,7 +16,7 @@ If you use this dataset, please cite our technical paper and / or user manual:
   year={2025},
   url={https://www.researchgate.net/publication/387814573_Data_fusion_of_complementary_data_sources_using_Machine_Learning_enables_higher_accuracy_Solar_Resource_Maps},
   note={Accessed: 2025-01-08},
-  doi={0.13140/RG.2.2.30906.91846}
+  doi={http://dx.doi.org/10.13140/RG.2.2.30906.91846}
 }
 
 @techreport{usermanual_supoint_2024_v1,
