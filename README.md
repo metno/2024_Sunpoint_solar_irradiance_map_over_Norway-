@@ -6,6 +6,10 @@ See the technical paper describing the methodology and results (under review, pr
 
 See the user manual pdf on this repository: https://github.com/metno/2024_Sunpoint_solar_irradiance_map_over_Norway_1991-2020/blob/main/2024_SunPoint_user_instructions_v1.pdf .
 
+See the data at: https://thredds.met.no/thredds/catalog/sunpoint/catalog.html .
+
+See the example of how to use the data (jupyter python notebook) on this repository at: https://github.com/metno/2024_Sunpoint_solar_irradiance_map_over_Norway_1991-2020/blob/main/SunPoint_data_user_example.ipynb .
+
 If you use this dataset, please cite our technical paper and / or user manual:
 
 ```
